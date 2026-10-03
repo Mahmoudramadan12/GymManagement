@@ -1,0 +1,1 @@
+A robust backend web application built with C# and ASP.NET Core to automate and streamline gym operations, including member subscriptions, trainer tracking, and class scheduling. Designed with an optimized database architecture for high performance, reliability, and smooth data management.
